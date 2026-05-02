@@ -120,6 +120,12 @@ portfolio/
 
 ---
 
+## License
+
+This project is for learning and portfolio purposes. Please do not copy without permission.
+
+---
+
 ## 👨‍💻 Author
 
 **C S Goutham Reddy**
