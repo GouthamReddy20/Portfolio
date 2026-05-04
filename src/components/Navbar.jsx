@@ -5,9 +5,9 @@ function Navbar() {
 
         {/* Logo Left */}
         <h1 className="text-xl font-bold tracking-wide">
-          <a href="http://localhost:5173/"><span className="text-white">G</span></a>
-         <a href="http://localhost:5173/"> <span className="bg-gradient-to-r from-blue-500 via-purple-500 to-cyan-400 bg-clip-text text-transparent">R</span>
-        </a></h1>
+          <span className="text-white">G</span>
+          <span className="bg-gradient-to-r from-blue-500 via-purple-500 to-cyan-400 bg-clip-text text-transparent">R</span>
+        </h1>
 
         {/* Links Center */}
         <div className="hidden md:flex gap-10 text-gray-300">
