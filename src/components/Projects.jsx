@@ -16,6 +16,13 @@ function Projects() {
       live: "https://movie-review-frontend-swart.vercel.app/",
       github: "https://github.com/GouthamReddy20/movie-review-platform-supabase",
     },
+        {
+      title: "neurofleet.ai",
+      description:
+        "A full-stack web application that connects users to smart bus booking system in real-time and getting updates regarding the traffics.",
+      tech: ["TypeScript", "Firebase", "Maps Integration", "next.js"],
+      github: "https://github.com/GouthamReddy20/neurofleet.ai",
+    },
     {
       title: "CricFantasy Database System",
       description:
@@ -37,13 +44,7 @@ function Projects() {
       tech: ["MongoDB", "Express", "React", "Node.js"],
       github: "https://github.com/GouthamReddy20/airbnb",
     },
-    {
-      title: "Currency Converter",
-      description:
-        "A simple web app that converts currencies in real-time using exchange rate APIs.",
-      tech: ["JavaScript", "API Integration"],
-      github: "https://github.com/GouthamReddy20/CodeAlpha_Project_HotelReservationSystem",
-    },
+
   ];
 
   return (
