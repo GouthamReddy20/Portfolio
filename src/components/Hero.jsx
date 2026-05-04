@@ -16,9 +16,7 @@ function Hero() {
           </h1>
 
           <p className="text-gray-400 text-lg leading-relaxed mb-8 max-w-md">
-            Full Stack Developer passionate about building scalable web
-            applications and solving real-world problems using modern
-            technologies.
+            Full Stack Developer focused on building scalable, high-performance web applications and solving real-world problems, with hands-on experience in modern technologies and a solid foundation in cloud computing.
           </p>
 
           {/* Buttons */}

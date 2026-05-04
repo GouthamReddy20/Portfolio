@@ -9,11 +9,19 @@ function Experience() {
       color: "from-blue-500 to-cyan-400",
     },
     {
-      role: "Java Developer Intern",
-      company: "CodeAlpha",
+      role: "Java Full Stack Intern",
+      company: "Infosys Springboard",
       description:
-        "Completed a 30-day internship focused on Java and OOP concepts. Developed modular applications including a Student Grade Tracker and Hotel Reservation System.",
-      certificate: "/codealpha-certificate.pdf",
+        "Contributed to full-stack development in team environment, participating in code reviews and project discussions and delivered 7 major project milestones",
+      certificate: "https://drive.google.com/file/d/1plLyhPpjXPNBDEKs_dCsbPh2LFQGDB6y/view?usp=drivesdk",
+      color: "from-purple-500 to-pink-400",
+    },
+        {
+      role: "AWS Cloud Practitioner",
+      company: "Amazon Web Services",
+      description:
+        "I earned the AWS Certified Cloud Practitioner certification, strengthening my knowledge of cloud computing, AWS services, and deployment strategies.",
+      certificate: "https://www.credly.com/badges/97a4dede-4daf-45e1-b253-5af3c1e25c4b/public_url",
       color: "from-purple-500 to-pink-400",
     },
   ];

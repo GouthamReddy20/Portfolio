@@ -3,7 +3,7 @@ function Skills() {
     {
       title: "Languages",
       color: "from-blue-500 to-cyan-400",
-      skills: ["Java", "Python", "JavaScript"],
+      skills: ["Java", "Python", "JavaScript", "TypeScript"],
     },
     {
       title: "Frontend",
@@ -28,7 +28,7 @@ function Skills() {
     {
       title: "Tools",
       color: "from-pink-500 to-cyan-400",
-      skills: ["VS Code", "Git", "GitHub", "Postman"],
+      skills: ["VS Code", "Git", "GitHub", "Postman", "Aws(EC2, S3)"],
     },
   ];
 
