@@ -29,7 +29,7 @@ function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Goutham_reddy_resume.pdf"
               target="_blank"
               className="px-6 py-3 rounded-lg border border-gray-600 hover:border-blue-400 hover:text-blue-400 transition"
             >
