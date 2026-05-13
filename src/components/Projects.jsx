@@ -24,11 +24,12 @@ function Projects() {
       github: "https://github.com/GouthamReddy20/neurofleet.ai",
     },
     {
-      title: "CricFantasy Database System",
+      title: "Team Task Manager",
       description:
-        "A cricket fantasy database system storing player stats and match data.",
-      tech: ["SQL", "Database Design"],
-      github: "https://github.com/GouthamReddy20/CricFantasy-Database-SQL-",
+        "A full-stack web application that connects both the Admin and Members which is used to assign and manage the projects and tasks.",
+      tech: ["React", "Node", "Express", "Pg SQL"],
+      live: "https://team-task-manager-swart-eight.vercel.app/",
+      github: "https://github.com/GouthamReddy20/team-task-manager",
     },
     {
       title: "Movie Recommendation System",
